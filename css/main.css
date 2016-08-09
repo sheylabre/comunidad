@@ -1,0 +1,65 @@
+.bg{
+    background-color: white;
+}
+
+.nav{
+    margin-left: 28%;
+}
+#nav .bd {
+    border-right: 1px solid;
+    margin-top: 3%;
+}
+.w-50{
+    width: 50%;
+    margin-left: 65%;
+}
+
+.semilla{
+    background-image: url(../img/semilla.jpg);
+    height: 675px;
+}
+
+
+.pbh1{
+    padding: 3%;
+    font-size: 150%;
+}
+
+.metodo2{
+    background-image: url(../img/fondo.jpg);
+    height: 450px;
+}
+
+.txt1{
+    font-size: 150%;
+}
+
+.ser{
+    padding-bottom: 2%;
+}
+
+.pbh2{
+    margin-bottom:8%;
+
+}
+
+.tren{
+    padding-bottom: 15%;
+}
+
+.equipo{
+    border-radius: 100%;
+}
+
+.equip{
+    padding-top: 3%;
+    font-size: 150%;
+}
+
+.gris{
+    background-image: url(../img/fondo2.jpg);
+}
+
+.color{
+    color: #FAC62C;
+}
