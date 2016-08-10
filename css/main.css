@@ -60,6 +60,10 @@
     background-image: url(../img/fondo2.jpg);
 }
 
+.ico{
+    width: 30%;
+}
+
 .color{
     color: #FAC62C;
 }
